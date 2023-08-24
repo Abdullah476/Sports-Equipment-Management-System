@@ -1,4 +1,4 @@
-# SE_PROJECT
+# Sports Equipment Management System
 
 Requirements
 1) IntelliJ or Eclipse
